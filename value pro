@@ -1,0 +1,6 @@
+#iclude<stdio.h>
+void main()
+float s=10.55;
+{
+printf("the value s",s);
+}
